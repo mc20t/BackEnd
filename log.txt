@@ -1,0 +1,41 @@
+[2022-05-31 14:41:33] [INFO   ] [org.example.Lesha_REST.utils.DBDataLoader] Data already loaded. You can overwrite it with -overwrite flag 
+[2022-05-31 14:43:18] [INFO   ] [org.example.Lesha_REST.utils.DBDataLoader] Data already loaded. You can overwrite it with -overwrite flag 
+[2022-05-31 14:43:23] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 14:43:24] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 14:43:24] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 14:43:25] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 14:43:26] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 14:43:26] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 14:43:27] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 14:43:28] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 14:43:28] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 14:43:29] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 17:27:52] [INFO   ] [org.example.Lesha_REST.utils.DBDataLoader] Loading data... 
+[2022-05-31 17:27:52] [INFO   ] [org.example.Lesha_REST.utils.DBDataLoader] Data Successfully Loaded 
+[2022-05-31 17:28:10] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 17:28:30] [INFO   ] [org.example.Lesha_REST.controller.MarketController] GET /market 
+[2022-05-31 17:31:04] [INFO   ] [org.example.Lesha_REST.controller.MarketController] POST /market/deal 
+[2022-05-31 17:31:12] [INFO   ] [org.example.Lesha_REST.controller.MarketController] GET /market 
+[2022-05-31 17:31:15] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 17:42:27] [INFO   ] [org.example.Lesha_REST.utils.DBDataLoader] Loading data... 
+[2022-05-31 17:42:27] [INFO   ] [org.example.Lesha_REST.utils.DBDataLoader] Data Successfully Loaded 
+[2022-05-31 17:42:56] [INFO   ] [org.example.Lesha_REST.utils.DBDataLoader] Data already loaded. You can overwrite it with -overwrite flag 
+[2022-05-31 17:44:06] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 18:52:45] [INFO   ] [org.example.Lesha_REST.utils.DBDataLoader] Loading data... 
+[2022-05-31 18:52:45] [INFO   ] [org.example.Lesha_REST.utils.DBDataLoader] Data Successfully Loaded 
+[2022-05-31 18:54:03] [INFO   ] [org.example.Lesha_REST.utils.DBDataLoader] Loading data... 
+[2022-05-31 18:54:03] [INFO   ] [org.example.Lesha_REST.utils.DBDataLoader] Data Successfully Loaded 
+[2022-05-31 21:07:32] [INFO   ] [org.example.Lesha_REST.utils.DBDataLoader] Data already loaded. You can overwrite it with -force flag 
+[2022-05-31 21:07:39] [INFO   ] [org.example.Lesha_REST.controller.MarketController] POST /market/deal 
+[2022-05-31 21:07:39] [WARNING] [org.example.Lesha_REST.controller.MarketController] Not enough product 
+[2022-05-31 21:07:45] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 21:07:55] [INFO   ] [org.example.Lesha_REST.controller.MarketController] GET /market 
+[2022-05-31 21:08:05] [INFO   ] [org.example.Lesha_REST.controller.MarketController] POST /market/deal 
+[2022-05-31 21:08:08] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 21:08:09] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 21:11:18] [INFO   ] [org.example.Lesha_REST.utils.DBDataLoader] Loading data... 
+[2022-05-31 21:11:19] [INFO   ] [org.example.Lesha_REST.utils.DBDataLoader] Data Successfully Loaded 
+[2022-05-31 21:11:31] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
+[2022-05-31 21:11:34] [INFO   ] [org.example.Lesha_REST.controller.MarketController] GET /market 
+[2022-05-31 21:11:41] [INFO   ] [org.example.Lesha_REST.controller.MarketController] POST /market/deal 
+[2022-05-31 21:11:43] [INFO   ] [org.example.Lesha_REST.controller.AccountController] GET /account 
